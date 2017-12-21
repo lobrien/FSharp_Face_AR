@@ -1,4 +1,4 @@
-﻿namespace NoiseGameplayKit
+﻿namespace FunnyFace
 
 open UIKit
 
